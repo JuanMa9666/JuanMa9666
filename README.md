@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Gif](https://c.tenor.com/8PDB3JNNq98AAAAS/silicon-valley.gif)
+
 <!--
 **JuanMa9666/JuanMa9666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
