@@ -10,11 +10,11 @@ There´s no right answer either.
 - :computer: My Frameworks Favorite: Visual Studio Code, Visual Studio, Netbeans, Intelli-J, Andorid Studio
 - 🔭 I’m currently working on produce music, and development software aplication.
 
-![Gif](https://c.tenor.com/8PDB3JNNq98AAAAS/silicon-valley.gif) ![Gif](https://c.tenor.com/A19sgZufjLIAAAAC/god-city.gif)
-
+![Gif](https://c.tenor.com/A19sgZufjLIAAAAC/god-city.gif)
 
 <h3 align="left">Languages and Tools 🛠</h3>
 
+![C#](https://img.shields.io/badge/C%20Sharp-7D39C0.svg?style=for-the-badge&logo=Csharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-1A32B8.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/FLUTTER-%231572B6.svg?style=for-the-badge&logo=FLUTTER&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-9C04F.svg?style=for-the-badge&logo=Android&logoColor=white)
@@ -23,21 +23,26 @@ There´s no right answer either.
 ![Python](https://img.shields.io/badge/Python-F3D901?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/Languaje%20C-F3D901?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/Languaje%20C-F301EB?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%20Sharp-7D39C0.svg?style=for-the-badge&logo=Csharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Git Hub](https://img.shields.io/badge/GitHub-202126.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-4200EE.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual](https://img.shields.io/badge/Visual-A0029B.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![.Net Core](https://img.shields.io/badge/.Net%20Core-650462.svg?style=for-the-badge&logo=.net&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-4200EE.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Corel Draw](https://img.shields.io/badge/Corel%20Draw-14D100.svg?style=for-the-badge&logo=coreldraw&logoColor=white)
+![WORD](https://img.shields.io/badge/Word-%23323330.svg?style=for-the-badge&logo=microsoftword&logoColor=1F80F0)
+![EXCEL](https://img.shields.io/badge/Excel-%23323330.svg?style=for-the-badge&logo=microsoftexcel&logoColor=02D21A)
+![POWER POINT](https://img.shields.io/badge/Power%20Point-%23323330.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=DC4A17)
+![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-%23323330.svg?style=for-the-badge&logo=adobe%20audition&logoColor=46A17B)
+![Ableton Live](https://img.shields.io/badge/Ableton%20Live-%23323330.svg?style=for-the-badge&logo=ableton%20live&logoColor=DDF01F)
+![FL Studio](https://img.shields.io/badge/FL%20STUDIO-%23323330.svg?style=for-the-badge&logo=flstudio&logoColor=DDF01F)
 
 <h3 align="left">My Github Stats📈</h3> 
 
@@ -63,6 +68,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+![Gif](https://c.tenor.com/A19sgZufjLIAAAAC/god-city.gif)
+![Gif](https://c.tenor.com/8PDB3JNNq98AAAAS/silicon-valley.gif) 
+![Gif](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 https://www.webfx.com/tools/emoji-cheat-sheet/ [EMOJIS]
 <h3 align="left">My Most Used Languages✨</h3> 
