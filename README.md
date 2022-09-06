@@ -34,6 +34,7 @@ There´s no right answer either.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual](https://img.shields.io/badge/Visual-A0029B.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-5F9EA0.svg?style=for-the-badge&logo=Csharp&logoColor=white)
 ![.Net Core](https://img.shields.io/badge/.Net%20Core-650462.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-4200EE.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Corel Draw](https://img.shields.io/badge/Corel%20Draw-14D100.svg?style=for-the-badge&logo=coreldraw&logoColor=white)
@@ -42,6 +43,7 @@ There´s no right answer either.
 ![POWER POINT](https://img.shields.io/badge/Power%20Point-%23323330.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=DC4A17)
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-%23323330.svg?style=for-the-badge&logo=adobe%20audition&logoColor=46A17B)
 ![Ableton Live](https://img.shields.io/badge/Ableton%20Live-%23323330.svg?style=for-the-badge&logo=ableton%20live&logoColor=DDF01F)
+![Reason](https://img.shields.io/badge/REASON%205-%23323330.svg?style=for-the-badge&logo=Reason&logoColor=DDF01F)
 ![FL Studio](https://img.shields.io/badge/FL%20STUDIO-%23323330.svg?style=for-the-badge&logo=flstudio&logoColor=DDF01F)
 
 <h3 align="left">My Github Stats📈</h3> 
